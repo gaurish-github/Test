@@ -1,4 +1,5 @@
 If hungry Then
 	eat samosa
 	eat fries
+	eat pizza
 End If
