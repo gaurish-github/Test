@@ -3,4 +3,6 @@ If hungry Then
 	eat fries
 	eat pizza
 	eat chole
+else
+	drink soda
 End If
