@@ -2,4 +2,5 @@ If hungry Then
 	eat samosa
 	eat fries
 	eat pizza
+	eat chole
 End If
