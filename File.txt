@@ -4,4 +4,5 @@ If hungry Then
 	eat pizza
 else
 	drink soda
+	drink milk
 End If
