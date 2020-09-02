@@ -5,4 +5,5 @@ If hungry Then
 	eat chole
 else
 	drink soda
+	drink milk
 End If
